@@ -1,1 +1,1 @@
-use touch <filename> to create a new file
+touch <filename>
