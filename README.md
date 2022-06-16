@@ -1,2 +1,2 @@
 alx-pre_course readme updated
-getting this project solced
+getting this project solved
